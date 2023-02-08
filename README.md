@@ -1,0 +1,1 @@
+Project uses a photoresistor taped to the red light of the robot machine. When robot has a warning, the red light turns on. When red light is on, the micocontroller will see that and send an alert to another microcontroller. 
